@@ -22,9 +22,9 @@ I train and fine-tune models, build games, and ship software that solves real pr
 ### Featured projects
 | Project | Description |
 |---------|-------------|
-| [project-one](link) | Short description of a model you trained, with the key result |
-| [project-two](link) | Short description of a game or prototype |
-| [project-three](link) | Short description of a software tool or app |
+| [attendance-system]() | Fingerprint-based employee attendance & hourly payroll for small shops — Python/Tkinter desktop app with a Rubika bot for live alerts, reports and salary. |
+| [task-flow](https://github.com/darkneuron4499/desktop-tutorial/tree/ac5ca957eec3ce48cd4f112a274b2818412cc78e/taskflow) | A tiny, clean, object-oriented task manager for the terminal, built with Python. Priorities, JSON storage, swappable backends, tests and CI included. |
+
 
 ### Currently
 - Training and experimenting with [model / dataset]
@@ -34,4 +34,4 @@ I train and fine-tune models, build games, and ship software that solves real pr
 Full-time roles · Freelance projects · Collaboration
 
 ### Contact
-[Email](darkneuron4499@email.com) · [Telegram](mostafa88_parvin)
+[Email](darkneuron4499@email.com) · [Telegram](t.me/Darkneuron4499)
