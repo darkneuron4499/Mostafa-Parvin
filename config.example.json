@@ -1,0 +1,10 @@
+{
+  "port": "auto",
+  "baud": "auto",
+  "token": "PUT_YOUR_RUBIKA_BOT_TOKEN_HERE",
+  "admins": [],
+  "auto_close": "23:59",
+  "auto_mode_v2": true,
+  "last_port": null,
+  "last_baud": null
+}
