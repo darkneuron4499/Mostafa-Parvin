@@ -23,7 +23,8 @@ I train and fine-tune models, build games, and ship software that solves real pr
 | Project | Description |
 |---------|-------------|
 | [attendance-system](https://github.com/darkneuron4499/Mostafa-Parvin/tree/20185fff2d01692b95ecac03b7be6f9016225e38/attendance-system) | a system for control workers salary in a market |
-| [task-flow](https://github.com/darkneuron4499/Mostafa-Parvin/tree/514830592af71a9280e3f6db6d25ffd30edd6579/taskflow) | a system to control a library|
+| [task-flow](https://github.com/darkneuron4499/Mostafa-Parvin/tree/514830592af71a9280e3f6db6d25ffd30edd6579/taskflow) | a system to control a library |
+| [retail-sales-analytics](https://github.com/darkneuron4499/Mostafa-Parvin/tree/136696dcc905fdc7f37ea4be19d787b1b8f07f72/retail-sales-analytics) | Analyzes retail sales data to find top products, trends and forecast future revenue, with a visual dashboard |
 
 ### Currently
 - Training and experimenting with [model / dataset]
